@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182093358828",
+    "project_id": "authenticate-40b66",
+    "storage_bucket": "authenticate-40b66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182093358828:android:84cb38e6571cee1ecf67c9",
+        "android_client_info": {
+          "package_name": "com.example.authenticate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0yNEizBBCvCWH30kDSe8nIdqvN4beVgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
